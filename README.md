@@ -14,11 +14,11 @@
 I'm currently studying Full Stack Web Development at Coder Academy.
 <br>
 
-🌱 Currently learning 🌱 : <img src="https://img.shields.io/badge/JavaScript-323330?logo=javascript&logoColor=F7DF1E" />![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)[NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+🌱 Currently learning 🌱 : <img src="https://img.shields.io/badge/JavaScript-323330?logo=javascript&logoColor=F7DF1E" /><img src="https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB" />
 
 ## ✨ Skills ✨
 
-- Front-end: <img src="https://img.shields.io/badge/HTML5-181717?logo=html5&logoColor=white&labelColor=E34F26" /><img src="https://img.shields.io/badge/CSS3-181717?logo=css3&logoColor=white&labelColor=1572B6" /> ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
+- Front-end: <img src="https://img.shields.io/badge/HTML5-181717?logo=html5&logoColor=white&labelColor=E34F26" /><img src="https://img.shields.io/badge/CSS3-181717?logo=css3&logoColor=white&labelColor=1572B6" /><img src="https://img.shields.io/badge/JavaScript-323330?logo=javascript&logoColor=F7DF1E" /><img src="https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB" />
 
 - Back-end: <img src="https://img.shields.io/badge/NodeJS-181717?logo=nodedotjs&logoColor=white&labelColor=339933" /><img src="https://img.shields.io/badge/ExpressJS-181717?logo=express&logoColor=white&labelColor=000000" /><img src="https://img.shields.io/badge/Python-181717?logo=python&logoColor=white&labelColor=3776AB" /><img src="https://img.shields.io/badge/Flask-181717?logo=flask&logoColor=white" />
   
