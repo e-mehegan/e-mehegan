@@ -14,7 +14,7 @@
 I'm currently studying Full Stack Web Development at Coder Academy.
 <br>
 
-🌱 Currently learning 🌱 : <img src="https://img.shields.io/badge/JavaScript-323330?logo=javascript&logoColor=F7DF1E" /><img src="https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB" />
+🌱 Currently learning 🌱 : <img src="https://img.shields.io/badge/JavaScript-323330?logo=javascript&logoColor=F7DF1E" /><img src="https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB" /><img src="https://img.shields.io/badge/NodeJS-181717?logo=nodedotjs&logoColor=white&labelColor=339933" />
 
 ## ✨ Skills ✨
 
