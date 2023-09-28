@@ -27,6 +27,7 @@ I'm currently studying Full Stack Web Development at Coder Academy.
 
 - Version Control: <img src="https://img.shields.io/badge/Github-181717?logo=github&logoColor=white" />
 
+- Tools: 
 ## Education
  
 ### Full Stack Web Development
