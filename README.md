@@ -27,7 +27,8 @@ I'm currently studying Full Stack Web Development at Coder Academy.
 
 - Version Control: <img src="https://img.shields.io/badge/Github-181717?logo=github&logoColor=white" />
 
-- Tools: 
+- Tools: <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="Figma" alt="Figma" width="40" height="40"/>&nbsp; <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg" title="VSCode" alt="VSCode" width="40" height="40"/>&nbsp; <img src="https://github.com/devicons/devicon/blob/master/icons/trello/trello-plain.svg" title="Trello" alt="Trello" width="40" height="40"/>&nbsp; <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> </p>
+  
 ## Education
  
 ### Full Stack Web Development
@@ -40,6 +41,7 @@ I'm currently studying Full Stack Web Development at Coder Academy.
     - Graduate with Distinction
 
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nate-0hZ&layout=compact)
 <!--
 - 🔭 I’m currently working on ...
 - 👯 I’m looking to collaborate on ...
