@@ -11,7 +11,7 @@
   </a>
 </p>
 
-I'm currently studying Full Stack Web Development at Coder Academy.
+Studying Full Stack Web Development at Coder Academy.
 <br>
 
 ## ✨ Skills ✨
