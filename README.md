@@ -24,7 +24,7 @@ I'm currently studying Full Stack Web Development at Coder Academy.
   
 - Database: <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />![Static Badge](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 
-- Testing: <img src="https://img.shields.io/badge/Jest-323330?style=for-the-badge&logo=Jest&logoColor=white" /><img src="https://img.shields.io/badge/Pytest-181717?logo=pytest&logoColor=white&labelColor=0A9EDC" />
+- Testing: <img src="https://img.shields.io/badge/Jest-323330?style=for-the-badge&logo=Jest&logoColor=white" /><img src="https://img.shields.io/badge/PyTest-0078D4?style=for-the-badge&logo=pytest&logoColor=white"  title="Jest" alt="Jest" height="22"/>
 
 - Version Control: <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
 
