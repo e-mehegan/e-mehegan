@@ -1,6 +1,7 @@
 # Emily Mehegan
 
 <p align="center">
+  <iframe src="https://giphy.com/embed/paTz7UZbPfTZFRYnnB" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/stickers/mrurbinaco-mr-urbina-office-paTz7UZbPfTZFRYnnB">via GIPHY</a></p>
   <a
     href="https://www.linkedin.com/in/emily-mehegan-7a29361b7/"
     target="_blank">
