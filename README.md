@@ -11,7 +11,7 @@
   </a>
 </p>
 
-Full Stack Web Developmer
+Full Stack Web Developer
 <br>
 
 ## ✨ Skills ✨
