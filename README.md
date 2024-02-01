@@ -11,7 +11,7 @@
   </a>
 </p>
 
-Studying Full Stack Web Development at Coder Academy.
+Full Stack Web Developmer
 <br>
 
 ## ✨ Skills ✨
